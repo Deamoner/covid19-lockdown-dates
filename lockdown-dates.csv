@@ -1,0 +1,907 @@
+Confirmed,Country,End date,Level,Place,Start date,URL
+,Algeria,4/14/2020,City,Algiers,3/23/2020,
+,Algeria,4/14/2020,City,Blida,3/23/2020,
+,Argentina,4/12/2020,National,,3/19/2020,
+,Australia,4/24/2020,National,,3/23/2020,
+,Austria,4/13/2020,National,,3/16/2020,
+,Belgium,4/18/2020,National,,3/18/2020,
+,Bolivia,4/14/2020,National,,3/22/2020,
+,Brazil,4/8/2020,State,Santa Catarina,3/17/2020,
+,Brazil,4/7/2020,State,SÃ£o Paulo,3/24/2020,
+,Chile,4/14/2020,National,,3/19/2020,
+,Colombia,4/13/2020,National,,3/25/2020,
+,Costa Rica,4/13/2020,National,,3/23/2020,
+,Cuba,4/19/2020,National,,3/23/2020,
+,Denmark,4/13/2020,National,,3/11/2020,
+,Dominican Republic,4/3/2020,National,,3/19/2020,
+,Ecuador,3/31/2020,National,,3/16/2020,
+,Fiji,4/10/2020,City,Lautoka,3/20/2020,
+,Finland,4/14/2020,Region,Uusimaa,3/27/2020,
+,France,4/15/2020,National,,3/17/2020,
+,Germany,4/3/2020,State,Bavaria,3/20/2020,
+,Germany,4/3/2020,City,"Freiburg, BW",3/21/2020,
+,Ghana,4/14/2020,Metropolitan Area,Accra,3/30/2020,
+,Ghana,4/14/2020,Metropolitan Area,Kumasi,3/30/2020,
+,Greece,4/6/2020,National,,3/23/2020,
+,Honduras,4/12/2020,National,,3/17/2020,
+,Hungary,4/11/2020,National,,3/28/2020,
+,Indonesia,7/25/2020,City,Tegal,3/26/2020,
+,Iraq,4/11/2020,National,,3/22/2020,
+,Ireland,4/12/2020,National,,3/12/2020,
+,Italy,4/12/2020,National,,3/9/2020,
+,Jordan,4/12/2020,National,,3/21/2020,
+,Liberia,4/14/2020,County,Margibi,3/23/2020,
+,Liberia,4/14/2020,County,Montserrado,3/23/2020,
+,Libya,4/20/2020,National,,3/22/2020,
+,Madagascar,4/12/2020,City,Antananarivo,3/23/2020,
+,Madagascar,4/12/2020,City,Toamasina,3/23/2020,
+,Malaysia,4/14/2020,National,,3/18/2020,
+,Montenegro,4/14/2020,Municipality,Tuzi,3/24/2020,
+,Morocco,4/20/2020,National,,3/19/2020,
+,Nepal,4/7/2020,National,,3/24/2020,
+,New Zealand,4/19/2020,National,,3/26/2020,
+,Nigeria,4/14/2020,City,Abuja,3/30/2020,
+,Nigeria,4/14/2020,City,Lagos,3/30/2020,
+,Nigeria,4/14/2020,State,Ogun,3/30/2020,
+,Norway,4/13/2020,National,,3/12/2020,
+,Pakistan,4/7/2020,Administrative,Azad Kashmir,3/24/2020,
+,Pakistan,4/7/2020,Province,Balochistan,3/24/2020,
+,Pakistan,4/10/2020,Administrative,Gilgit-Baltistan,3/22/2020,
+,Pakistan,4/6/2020,Province,Punjab,3/24/2020,
+,Pakistan,4/7/2020,Province,Sindh,3/24/2020,
+,Panama,4/13/2020,National,,3/25/2020,
+,Papua New Guinea,4/13/2020,National,,3/24/2020,
+,Paraguay,4/12/2020,National,,3/20/2020,
+,Philippines,4/15/2020,Province,Cebu,3/27/2020,
+,Philippines,4/14/2020,Region,Davao Region,3/19/2020,
+,Philippines,4/14/2020,Island group,Luzon,3/15/2020,
+,Philippines,4/14/2020,Region,Soccsksargen,3/23/2020,
+,Poland,4/12/2020,National,,3/13/2020,
+,Portugal,4/2/2020,National,,3/19/2020,
+,Romania,4/14/2020,National,,3/25/2020,
+,Russia,4/12/2020,Metropolitan area,Moscow,3/30/2020,
+,Rwanda,4/12/2020,National,,3/21/2020,
+,Samoa,4/9/2020,National,,3/26/2020,
+,Saudi Arabia,4/14/2020,City,Jeddah,3/29/2020,
+,Saudi Arabia,4/14/2020,City,Mecca,3/26/2020,
+,Saudi Arabia,4/14/2020,City,Medina,3/26/2020,
+,Saudi Arabia,4/14/2020,Area,Qatif,3/9/2020,
+,Saudi Arabia,4/14/2020,City,Riyadh,3/26/2020,
+,South Africa,4/16/2020,National,,3/26/2020,
+,Spain,4/14/2020,National,,3/14/2020,
+,Tunisia,4/11/2020,National,,3/22/2020,
+,United Kingdom,4/13/2020,National,,3/23/2020,
+,United States,4/20/2020,County,"Clark County, NV",3/20/2020,
+,United States,4/23/2020,City,"Kansas City, KS",3/24/2020,
+,Venezuela,4/19/2020,National,,3/17/2020,
+,Zimbabwe,4/12/2020,National,,3/30/2020,
+,United States,4/11/2020,State,Alaska,3/28/2020,
+,United States,,State,Arizona,3/31/2020,
+,United States,,State,California,3/19/2020,
+,United States,4/11/2020,State,Colorado,3/26/2020,
+,United States,,State,Connecticut,3/23/2020,
+,United States,5/15/2020,State,Delaware,3/24/2020,
+,United States,,State,District of Columbia,4/1/2020,
+,United States,4/30/2020,State,Hawaii,3/25/2020,
+,United States,4/15/2020,State,Idaho,3/25/2020,
+,United States,4/7/2020,State,Illinois,3/21/2020,
+,United States,4/6/2020,State,Indiana,3/24/2020,
+,United States,4/19/2020,State,Kansas,3/30/2020,
+,United States,4/12/2020,State,Louisiana,3/23/2020,
+,United States,5/4/2020,State,Massachusetts,3/24/2020,
+,United States,4/14/2020,State,Michigan,3/24/2020,
+,United States,4/10/2020,State,Minnesota,3/27/2020,
+,United States,,State,Montana,3/28/2020,
+,United States,5/4/2020,State,New Hampshire,3/27/2020,
+,United States,,State,New Jersey,3/21/2020,
+,United States,,State,New Mexico,3/24/2020,
+,United States,,State,New York,3/22/2020,
+,United States,,State,North Carolina,3/30/2020,
+,United States,4/6/2020,State,Ohio,3/23/2020,
+,United States,,State,Oregon,3/23/2020,
+,United States,4/26/2020,State,Rhode Island,3/30/2020,
+,United States,,State,Washington,3/25/2020,
+,United States,,State,West Virginia,3/24/2020,
+,United States,4/24/2020,State,Wisconsin,3/25/2020,
+,United States,4/15/2020,State,Vermont,3/25/2020,
+,United States,4/7/2020,State,Maryland,3/23/2020,
+,United States,,State,Nevada,3/17/2020,
+,United States,4/23/2020,State,Virginia,3/24/2020,
+,United States,,State,Kentucky,3/23/2020,
+,United States,,State,Georgia,3/23/2020,
+,United States,4/30/2020,State,Oklahoma,3/25/2020,
+,Lithuania,4/13/2020,National,,3/16/2020,
+,United Arab Emirates,4/5/2020,National,,3/22/2020,
+,Lebanon,4/12/2020,National,,3/22/2020,
+,Kuwait,,National,,3/14/2020,
+,India,4/14/2020,National,,3/24/2020,
+,Peru,4/12/2020,National,,3/16/2020,
+,Canada,,Province,Quebec,3/13/2020,
+,El Salvador,4/20/2020,National,,3/21/2020,
+,Czech Republic,4/12/2020,National,,3/22/2020,
+Confirmed,China,4/8/2020,City,Wuhan,1/23/2020,
+Confirmed,China,3/25/2020,City,Xiaogan,1/24/2020,
+Confirmed,China,3/25/2020,City,Huanggang,1/23/2020,
+Confirmed,China,3/17/2020,City,Jingzhou,1/24/2020,
+Confirmed,China,3/25/2020,City,Ezhou,1/23/2020,
+Confirmed,China,3/25/2020,City,Suizhou,1/24/2020,
+Confirmed,China,3/25/2020,City,Xiangyang,1/28/2020,
+Confirmed,China,3/13/2020,City,Huangshi,1/24/2020,
+Confirmed,China,3/25/2020,City,Yichang,1/24/2020,
+Confirmed,China,3/25/2020,City,Jingmen,1/24/2020,
+Confirmed,China,3/25/2020,City,Xianning,1/24/2020,
+Confirmed,China,3/25/2020,City,Shiyan,1/24/2020,
+Confirmed,China,3/25/2020,City,Xiantao,1/24/2020,
+Confirmed,China,3/25/2020,City,Tianmen,1/24/2020,
+Confirmed,China,3/25/2020,City,Enshi,1/24/2020,
+Confirmed,China,3/13/2020,City,Qianjiang,1/24/2020,
+,Spain,04/26/2020,State,Badajoz,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Caceres,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Cuided Real,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Zaragoza,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Cuenca,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Huesca,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Leon,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Toleda,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Albacete,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Teruel,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Burgos,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Sevilla,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Cordoba,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Jaen,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Granada,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Salamanca,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Guadalajara,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Lerida,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Murcia,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Valencia,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Astrius,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Zamora,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Navarra,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Soria,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Huelva,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Logu,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Almeria,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Velladolis,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Palencia,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Avila,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Madrid,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,la Coruna,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Barcelorna,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Cadiz,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Malaga,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Ourense,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Segovia,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Spain,04/26/2020,State,Gerona,03/16/2020,https://www.thelocal.es/20200403/when-and-how-will-spains-lockdown-measures-end
+,Germany,04/19/2020,State,Baden-Württemberg,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Berlin,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Bavaria,03/20/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Brandenburg,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Bremen,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Hamburg,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,Wiesbaden,Hesse,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,Hanover,Lower Saxony,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,Schwerin,Mecklenburg-Vorpommern,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,Dusseldorf,"North Rhine-,//
+Westphalia",22.03.2022,thelocal/https://www/de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,Mainz,Rhineland-Palatinate,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,Saarbrucken,Saarland,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,Dresden,Saxony,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,Magdeburg,Saxony-Anhalt,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,Kiel,Schleswig-Holstein,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,Erfurt,Thuringia,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Iran,04/18/2020,State,Tehran,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Qom,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Markazi,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Qazvin,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Gilan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Ardabil,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Zanjan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,East Azarbijan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,West Azarbijan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Kurdistan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Hamadan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Kermanshah,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Ilan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,lorestan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Khuzistan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Chahar Mahaal,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Kohkiluyeh and Buyer Ahmad,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Bushehr,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Fars,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Hormozgan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Sistan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Kerman,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Yezd,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Esfahan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Semnan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Mazandaran,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Gulestan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,North Khoresan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Razavi Khorasan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,South Khorasan,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,Iran,04/18/2020,State,Alborz,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
+,England,,State,South East,03/23/2020,https://www.express.co.uk/news/uk/1264929/lockdown-end-date-when-will-lockdown-be-lifted-how-long-last-coronavirus
+,England,,State,London,03/23/2020,https://www.express.co.uk/news/uk/1264929/lockdown-end-date-when-will-lockdown-be-lifted-how-long-last-coronavirus
+,England,,State,North West,03/23/2020,https://www.express.co.uk/news/uk/1264929/lockdown-end-date-when-will-lockdown-be-lifted-how-long-last-coronavirus
+,England,,State,East of England,03/23/2020,https://www.express.co.uk/news/uk/1264929/lockdown-end-date-when-will-lockdown-be-lifted-how-long-last-coronavirus
+,England,,State,West Midlands,03/23/2020,https://www.express.co.uk/news/uk/1264929/lockdown-end-date-when-will-lockdown-be-lifted-how-long-last-coronavirus
+,England,,State,South West,03/23/2020,https://www.express.co.uk/news/uk/1264929/lockdown-end-date-when-will-lockdown-be-lifted-how-long-last-coronavirus
+,England,,State,Yorkshire and Hambar,03/23/2020,https://www.express.co.uk/news/uk/1264929/lockdown-end-date-when-will-lockdown-be-lifted-how-long-last-coronavirus
+,England,,State,East Midland,03/23/2020,https://www.express.co.uk/news/uk/1264929/lockdown-end-date-when-will-lockdown-be-lifted-how-long-last-coronavirus
+,England,,State,North East,03/23/2020,https://www.express.co.uk/news/uk/1264929/lockdown-end-date-when-will-lockdown-be-lifted-how-long-last-coronavirus
+,Turkey,04/30/2020,State,Adana,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Adıyaman,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Afyonkarahisar,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Agri,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Amasya,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Ankara,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Antaliya,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Artavin,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Aydin,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Balikesir ,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Belicik,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Bingol,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Bitlis,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Bolu,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Burdur,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Bursa,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Canakkale,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Cankiri,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Corum,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Denzili,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Diyarbakir,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Edirine,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Elazig,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Erzincan,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Erzurum,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Eskisehir,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Gaziantep,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Giresun,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Gumushene,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Hakkari,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Hatay,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Isparta,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Mersin,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Istanbul,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Izmir,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Kars,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Kastamonu,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Kayseri,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Kirklareli,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Kirsehir,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Kocaeli,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Konya,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Kutahya,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Malatya,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Manisa,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Mardin,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Mugla,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Mus,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Nevsehir,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Nigde,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Ordu,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Rize,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Sakarya,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Samsun,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Siirt,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Sinop,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Sivas,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Tekirdag,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Tokat,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Trabzon,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Turkey,04/30/2020,State,Tunceli,03/26/2020,https://www.al-monitor.com/pulse/originals/2020/03/turkey-considers-total-lockdown-coronavirus.html
+,Belgium,04/18/2020,State,Antwerp,03/18/2020,https://www.schengenvisainfo.com/news/belgium-extends-coronavirus-lockdown-to-april-19/
+,Belgium,04/18/2020,State,East Flanders,03/18/2020,https://www.schengenvisainfo.com/news/belgium-extends-coronavirus-lockdown-to-april-19/
+,Belgium,04/18/2020,State,Flemish Brabant,03/18/2020,https://www.schengenvisainfo.com/news/belgium-extends-coronavirus-lockdown-to-april-19/
+,Belgium,04/18/2020,State,Limburg,03/18/2020,https://www.schengenvisainfo.com/news/belgium-extends-coronavirus-lockdown-to-april-19/
+,Belgium,04/18/2020,State,West Flanders,03/18/2020,https://www.schengenvisainfo.com/news/belgium-extends-coronavirus-lockdown-to-april-19/
+,Belgium,04/18/2020,State,Hainaut,03/18/2020,https://www.schengenvisainfo.com/news/belgium-extends-coronavirus-lockdown-to-april-19/
+,Belgium,04/18/2020,State,Liège,03/18/2020,https://www.schengenvisainfo.com/news/belgium-extends-coronavirus-lockdown-to-april-19/
+,Belgium,04/18/2020,State,Luxembourg,03/18/2020,https://www.schengenvisainfo.com/news/belgium-extends-coronavirus-lockdown-to-april-19/
+,Belgium,04/18/2020,State,Namur,03/18/2020,https://www.schengenvisainfo.com/news/belgium-extends-coronavirus-lockdown-to-april-19/
+,Belgium,04/18/2020,State,Walloon Brabant,03/18/2020,https://www.schengenvisainfo.com/news/belgium-extends-coronavirus-lockdown-to-april-19/
+,Netherland,06/01/2020,State, Drenthe,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
+,Netherland,06/01/2020,State,Flevoland,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
+,Netherland,06/01/2020,State,Friesland,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
+,Netherland,06/01/2020,State,Gelderland,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
+,Netherland,06/01/2020,State,Groningen,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
+,Netherland,06/01/2020,State, Limburg,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
+,Netherland,06/01/2020,State,North Brabant,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
+,Netherland,06/01/2020,State,North Holland,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
+,Netherland,06/01/2020,State, Overijssel,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
+,Netherland,06/01/2020,State,South Holland,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
+,Netherland,06/01/2020,State,Utrecht,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
+,Netherland,06/01/2020,State,Zeeland,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
+,Canada,04/30/2020,State,Ontario,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Quebec,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Nova Scotia,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,New Brunswick,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Monitoba,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,British Colombia,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Prince Edward Iceland,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Saskachewan,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Alberta,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,New Foundland and Labrador,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Austria,04/14/2020,State,Viena,03/16/2020,https://metro.co.uk/2020/04/06/coronavirus-austria-lockdown-status-coronavirus-cases-population-12516501/
+,Austria,04/14/2020,State,Lower Austria,03/16/2020,https://metro.co.uk/2020/04/06/coronavirus-austria-lockdown-status-coronavirus-cases-population-12516501/
+,Austria,04/14/2020,State,Upper Austria,03/16/2020,https://metro.co.uk/2020/04/06/coronavirus-austria-lockdown-status-coronavirus-cases-population-12516501/
+,Austria,04/14/2020,State,Styria,03/16/2020,https://metro.co.uk/2020/04/06/coronavirus-austria-lockdown-status-coronavirus-cases-population-12516501/
+,Austria,04/14/2020,State,Tyrol,03/16/2020,https://metro.co.uk/2020/04/06/coronavirus-austria-lockdown-status-coronavirus-cases-population-12516501/
+,Austria,04/14/2020,State,Chrinthia,03/16/2020,https://metro.co.uk/2020/04/06/coronavirus-austria-lockdown-status-coronavirus-cases-population-12516501/
+,Austria,04/14/2020,State,Salzburg,03/16/2020,https://metro.co.uk/2020/04/06/coronavirus-austria-lockdown-status-coronavirus-cases-population-12516501/
+,Austria,04/14/2020,State,Vorerlberg,03/16/2020,https://metro.co.uk/2020/04/06/coronavirus-austria-lockdown-status-coronavirus-cases-population-12516501/
+,Austria,04/14/2020,State,Burgenland,03/16/2020,https://metro.co.uk/2020/04/06/coronavirus-austria-lockdown-status-coronavirus-cases-population-12516501/
+,Brazil,04/22/2020,State,Acre,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Alagoas,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Amapa,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Amazonas,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Bahia,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Ceara,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Distrito Federal,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Espirito Santp,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Goias,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Maranhao,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Mato Grosso,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Mato Grosso do Sul,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Minas Gerais,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Para,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Paraiba,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State, Parana,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Paernambuco,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Piaui,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Rio de Janeiro,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Rio Grande do Sul,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Rondonia,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Roraima,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Santa Catarina,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Sao Paulo,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Sergipe,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Brazil,04/22/2020,State,Tocantins,03/20/2020,https://www.news18.com/news/world/jair-bolsonaro-says-brazil-cannot-take-months-of-lockdown-due-to-covid-19-2563467.html
+,Portugal,04/02/2020,State,Minho,03/18/2020,https://www.politico.eu/article/portugal-declares-state-of-emergency-coronavirus-covid19-antonio-costa/
+,Portugal,04/02/2020,State,Trás-os-Montes e Alto Douro,03/18/2020,https://www.politico.eu/article/portugal-declares-state-of-emergency-coronavirus-covid19-antonio-costa/
+,Portugal,04/02/2020,State,Douro Litoral,03/18/2020,https://www.politico.eu/article/portugal-declares-state-of-emergency-coronavirus-covid19-antonio-costa/
+,Portugal,04/02/2020,State,Beira Litoral,03/18/2020,https://www.politico.eu/article/portugal-declares-state-of-emergency-coronavirus-covid19-antonio-costa/
+,Portugal,04/02/2020,State,Beira Alta,03/18/2020,https://www.politico.eu/article/portugal-declares-state-of-emergency-coronavirus-covid19-antonio-costa/
+,Portugal,04/02/2020,State,Beira Baixa,03/18/2020,https://www.politico.eu/article/portugal-declares-state-of-emergency-coronavirus-covid19-antonio-costa/
+,Portugal,04/02/2020,State,Ribatejo,03/18/2020,https://www.politico.eu/article/portugal-declares-state-of-emergency-coronavirus-covid19-antonio-costa/
+,Portugal,04/02/2020,State,Estremadura,03/18/2020,https://www.politico.eu/article/portugal-declares-state-of-emergency-coronavirus-covid19-antonio-costa/
+,Portugal,04/02/2020,State,Alto Alentejo,03/18/2020,https://www.politico.eu/article/portugal-declares-state-of-emergency-coronavirus-covid19-antonio-costa/
+,Portugal,04/02/2020,State,Baixo Alentejo,03/18/2020,https://www.politico.eu/article/portugal-declares-state-of-emergency-coronavirus-covid19-antonio-costa/
+,Portugal,04/02/2020,State,Algarve,03/18/2020,https://www.politico.eu/article/portugal-declares-state-of-emergency-coronavirus-covid19-antonio-costa/
+,Australia,06/29/2020,State,New South Wales,03/29/2020,https://www.theguardian.com/australia-news/2020/apr/02/the-90-day-lockdown-nsw-police-can-enforce-home-isolation-until-at-least-end-of-june
+,Australia,06/29/2020,State,Queensland,03/29/2020,https://www.theguardian.com/australia-news/2020/apr/02/the-90-day-lockdown-nsw-police-can-enforce-home-isolation-until-at-least-end-of-june
+,Australia,06/29/2020,State,Victoria,03/29/2020,https://www.theguardian.com/australia-news/2020/apr/02/the-90-day-lockdown-nsw-police-can-enforce-home-isolation-until-at-least-end-of-june
+,Australia,06/29/2020,State,Tasmania,03/29/2020,https://www.theguardian.com/australia-news/2020/apr/02/the-90-day-lockdown-nsw-police-can-enforce-home-isolation-until-at-least-end-of-june
+,Australia,06/29/2020,State,New South Wales,03/29/2020,https://www.theguardian.com/australia-news/2020/apr/02/the-90-day-lockdown-nsw-police-can-enforce-home-isolation-until-at-least-end-of-june
+,Australia,06/29/2020,State,New South Wales,03/29/2020,https://www.theguardian.com/australia-news/2020/apr/02/the-90-day-lockdown-nsw-police-can-enforce-home-isolation-until-at-least-end-of-june
+,Norway,04/13/2020,State,Oslo,03/12/2020,https://www.thelocal.no/20200324/norway-extends-coronavirus-lockdown-until-after-easter
+,Norway,04/13/2020,State,Rogaland,03/12/2020,https://www.thelocal.no/20200324/norway-extends-coronavirus-lockdown-until-after-easter
+,Norway,04/13/2020,State,More Og Romsdal,03/12/2020,https://www.thelocal.no/20200324/norway-extends-coronavirus-lockdown-until-after-easter
+,Norway,04/13/2020,State,Nordland,03/12/2020,https://www.thelocal.no/20200324/norway-extends-coronavirus-lockdown-until-after-easter
+,Norway,04/13/2020,State,Viken,03/12/2020,https://www.thelocal.no/20200324/norway-extends-coronavirus-lockdown-until-after-easter
+,Norway,04/13/2020,State,Innlandent,03/12/2020,https://www.thelocal.no/20200324/norway-extends-coronavirus-lockdown-until-after-easter
+,Norway,04/13/2020,State,Vestfold og Telemark,03/12/2020,https://www.thelocal.no/20200324/norway-extends-coronavirus-lockdown-until-after-easter
+,Norway,04/13/2020,State,Agder,03/12/2020,https://www.thelocal.no/20200324/norway-extends-coronavirus-lockdown-until-after-easter
+,Norway,04/13/2020,State,Vestland,03/12/2020,https://www.thelocal.no/20200324/norway-extends-coronavirus-lockdown-until-after-easter
+,Norway,04/13/2020,State,Trondelag,03/12/2020,https://www.thelocal.no/20200324/norway-extends-coronavirus-lockdown-until-after-easter
+,Norway,04/13/2020,State,Troms og Finmark,03/12/2020,https://www.thelocal.no/20200324/norway-extends-coronavirus-lockdown-until-after-easter
+,Ireland,04/12/2020,State,leinster,03/24/2020,https://www.irishpost.com/news/lockdown-ireland-likely-extended-according-health-officials-182848
+,Ireland,04/12/2020,State,Ulster,03/24/2020,https://www.irishpost.com/news/lockdown-ireland-likely-extended-according-health-officials-182848
+,Ireland,04/12/2020,State,Munster,03/24/2020,https://www.irishpost.com/news/lockdown-ireland-likely-extended-according-health-officials-182848
+,Ireland,04/12/2020,State,Connacht,03/24/2020,https://www.irishpost.com/news/lockdown-ireland-likely-extended-according-health-officials-182848
+,Denmark,04/15/2020,State,Copenhagen City,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark
+,Denmark,04/15/2020,State,Copenhagen Surroundings,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark
+,Denmark,04/15/2020,State,North Zealand,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark
+,Denmark,04/15/2020,State,East Zealand,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark
+,Denmark,04/15/2020,State,West & South Zealand,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark
+,Denmark,04/15/2020,State,Bornholm,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark
+,Denmark,04/15/2020,State,Funen,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark
+,Denmark,04/15/2020,State,South Jutland,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark
+,Denmark,04/15/2020,State,North Jutland,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark
+,Denmark,04/15/2020,State,West Jutland,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark
+,Denmark,04/15/2020,State,East Jutland,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Denmark
+,Czech Republic,04/30/2020,State,Prague,03/14/2020,https://www.euractiv.com/section/health-consumers/short_news/czech-republic-update-covid-19/
+,Chille,04/04/2020,National,,/3/19/2020/,https://www.aljazeera.com/news/2020/04/life-lockdown-chileans-creative-200406103958048.html
+,India,04/14/2020,State,Andhara Pardesh,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Arunchahal Pardesh,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Assam ,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Bihar,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Chattishgarh,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Goa,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Gujrat,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Haryana,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Himachal Pradesh,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Jharkhand,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Madhya Pradesh,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Maharashtra,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Manipur,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Meghalya,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Mizoram,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Nagaland,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Odisha,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Punjab,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Rajisthan,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Sikkim,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Tamil Nadu,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Telangana,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Tripura,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Utter Predesh,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,Uttarkhand,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,India,04/14/2020,State,West Bengal,03/25/2020,https://www.nytimes.com/2020/03/24/world/asia/india-coronavirus-lockdown.html
+,Poland,04/11/2020,State,Greater Poland,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Kuyavian pomeranian,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Lesser Poland,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Lodz,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Lower Silesian,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Lublin,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Lubusz,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Masovian,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Opole,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Podlasie,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Pomeranian,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Silesian,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Subcarpathian,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Swietokrzyskie,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Warmian Masurian,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Poland,04/11/2020,State,Western Pomeranian,03/13/2020,https://polandin.com/47115218/pm-announces-border-lockdown-other-virus-countermeasures
+,Romania,04/15/2020,State,Alba Lulia,03/16/2020,https://www.deccanherald.com/international/world-news-politics/coronavirus-romania-moves-to-full-virus-lockdown-enforced-by-army-817215.html
+,Malaysia,03/14/2020,State,Sabah,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Malaysia,03/14/2020,State,Sarawak,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Malaysia,03/14/2020,State,Johor,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Malaysia,03/14/2020,State,Penang,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Malaysia,03/14/2020,State,Selangor,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Malaysia,03/14/2020,State,Kedah,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Malaysia,03/14/2020,State,Perak,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Malaysia,03/14/2020,State,Kelantan,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Malaysia,03/14/2020,State,Pahang ,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Malaysia,03/14/2020,State,Malacca,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Malaysia,03/14/2020,State,Terengannu,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Malaysia,03/14/2020,State,Negeri Sembilen,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Malaysia,03/14/2020,State,Perlis,03/16/2020,https://www.bangkokpost.com/world/1886320/malaysia-extends-national-lockdown-by-2-weeks-to-curb-virus
+,Equador,04/29/2020,National,Quito,03/23/2020,https://www.reuters.com/article/health-coronavirus-ecuador/ecuador-closes-borders-to-foreign-travelers-due-to-coronavirus-idUSL8N2B70XK
+,Philipines,04/14/2020,National,Manila,03/15/2020,https://thediplomat.com/2020/04/the-philippines-coronavirus-lockdown-is-becoming-a-crackdown/
+,luxembourg,04/14/2020,National,Luxembourg,03/18/2020,https://www.themayor.eu/en/shops-and-restaurants-in-luxembourg-city-wont-pay-rent-during-lockdown
+,Saudi Arabia,04/13/2020,State,Qasim,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Saudi Arabia,04/13/2020,State,Riyadh,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Saudi Arabia,04/13/2020,State,Tabuk,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Saudi Arabia,04/13/2020,State,Madina,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Saudi Arabia,04/13/2020,State,Mecca,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Saudi Arabia,04/13/2020,State,Northern Border,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Saudi Arabia,04/13/2020,State,Jawf,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Saudi Arabia,04/13/2020,State,Hai'l,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Saudi Arabia,04/13/2020,State,Bahah ,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Saudi Arabia,04/13/2020,State,Jizan,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Saudi Arabia,04/13/2020,State,Asir,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Saudi Arabia,04/13/2020,State,Najran ,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Saudi Arabia,04/13/2020,State,Eastern Province,03/25/2020,https://www.garda.com/crisis24/news-alerts/327351/saudi-arabia-authorities-impose-lockdown-on-jeddah-march-29-update-20
+,Peru,/Not Known/,National,Lima,03/15/2020,https://vancouversun.com/travel/lockdown-in-peru/
+,Thailand,04/12/2020,National,Bangkok,03/22/2020,https://www.bloomberg.com/news/articles/2020-03-21/thailand-confirms-89-more-coronavirus-cases-taking-total-to-411
+,Serbia,04/12/2020,National,Belgrade,03/15/2020,https://www.france24.com/en/20200315-serbia-declares-state-of-emergency-over-coronavirus
+,Mexico,04/04/2020,National,North America,03/24/2020,
+,UAE,04/12/2020,State,Abu Dhabi,03/26/2020,https://www.usnews.com/news/world/articles/2020-04-04/dubai-imposes-two-week-lockdown-to-fight-coronavirus-outbreak
+,UAE,04/12/2020,State,Ajman,03/26/2020,https://www.usnews.com/news/world/articles/2020-04-04/dubai-imposes-two-week-lockdown-to-fight-coronavirus-outbreak
+,UAE,04/12/2020,State,Dubai,03/26/2020,https://www.usnews.com/news/world/articles/2020-04-04/dubai-imposes-two-week-lockdown-to-fight-coronavirus-outbreak
+,UAE,04/12/2020,State,Fujairah,03/26/2020,https://www.usnews.com/news/world/articles/2020-04-04/dubai-imposes-two-week-lockdown-to-fight-coronavirus-outbreak
+,UAE,04/12/2020,State,Ras-Al-Khaimah,03/26/2020,https://www.usnews.com/news/world/articles/2020-04-04/dubai-imposes-two-week-lockdown-to-fight-coronavirus-outbreak
+,UAE,04/12/2020,State,Sharjah,03/26/2020,https://www.usnews.com/news/world/articles/2020-04-04/dubai-imposes-two-week-lockdown-to-fight-coronavirus-outbreak
+,UAE,04/12/2020,State,Umm Al-Qawain,03/26/2020,https://www.usnews.com/news/world/articles/2020-04-04/dubai-imposes-two-week-lockdown-to-fight-coronavirus-outbreak
+,Panama,04/20/2020,State,Bocas del Toro,03/16/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Panama
+,Panama,04/20/2020,State,Chiriqui,03/16/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Panama
+,Panama,04/20/2020,State,Cocle,03/16/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Panama
+,Panama,04/20/2020,State,Colon,03/16/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Panama
+,Panama,04/20/2020,State,Derrien,03/16/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Panama
+,Panama,04/20/2020,State,Herrera,03/16/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Panama
+,Panama,04/20/2020,State,Los Santos,03/16/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Panama
+,Panama,04/20/2020,State,Panama,03/16/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Panama
+,Panama,04/20/2020,State,Panam Oeste,03/16/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Panama
+,Panama,04/20/2020,State,Veraguas,03/16/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Panama
+,Greece,04/27/2020,State,Atteca,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Crete,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Southern Aegean,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Northern Aegean,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Epirus,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Central Greece,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Western Greece,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Ionion Iseland,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Macedonia,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Central Macedonia,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Western Macedonia,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Eastern Macedonia,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Pelloponnese,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,Greece,04/27/2020,State,Thessaly,03/23/2020,https://greekcitytimes.com/2020/04/05/greece-extends-coronavirus-lockdown/
+,South Africa,04/14/2020,State,Western Cape,03/24/2020,https://www.aljazeera.com/news/2020/03/south-africans-brace-21-day-lockdown-virus-cases-rise-200324073801136.html
+,South Africa,04/14/2020,State,Eastern Cape,03/24/2020,https://www.aljazeera.com/news/2020/03/south-africans-brace-21-day-lockdown-virus-cases-rise-200324073801136.html
+,South Africa,04/14/2020,State,Northern Cape,03/24/2020,https://www.aljazeera.com/news/2020/03/south-africans-brace-21-day-lockdown-virus-cases-rise-200324073801136.html
+,South Africa,04/14/2020,State,North West,03/24/2020,https://www.aljazeera.com/news/2020/03/south-africans-brace-21-day-lockdown-virus-cases-rise-200324073801136.html
+,South Africa,04/14/2020,State,Free State,03/24/2020,https://www.aljazeera.com/news/2020/03/south-africans-brace-21-day-lockdown-virus-cases-rise-200324073801136.html
+,South Africa,04/14/2020,State,Kwazulu Natal,03/24/2020,https://www.aljazeera.com/news/2020/03/south-africans-brace-21-day-lockdown-virus-cases-rise-200324073801136.html
+,South Africa,04/14/2020,State,Guateng,03/24/2020,https://www.aljazeera.com/news/2020/03/south-africans-brace-21-day-lockdown-virus-cases-rise-200324073801136.html
+,South Africa,04/14/2020,State,Limpopo,03/24/2020,https://www.aljazeera.com/news/2020/03/south-africans-brace-21-day-lockdown-virus-cases-rise-200324073801136.html
+,South Africa,04/14/2020,State,Mpumalanga,03/24/2020,https://www.aljazeera.com/news/2020/03/south-africans-brace-21-day-lockdown-virus-cases-rise-200324073801136.html
+,Italy,05/01/2020,State,Agrigento,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Alessandria,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Ancona,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Aosta,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Arezzo,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Ascoli Piceno,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Asti,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Avellino,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Barletta,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Bari,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Belluno,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Benevento,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Bergamo,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Biella,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Bologna,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Bresica,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Brindisi,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Cagliari,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Caltanissetta,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Campobasso,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,caserta,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Catania,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Catanzaro,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Chieti,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Como,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Cosenza,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Cremona,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,crotone,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Cuneo,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Enna,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Fremo,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Ferrara,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Florence,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Foggia,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Forli-Cesena,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Frosinone',03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Genoa,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Gorizia,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Grosseto,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Imperia,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Isernia,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,La Spezia,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Laquila,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,latina,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Lecce,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Lecco,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Livorna,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Lodi,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Lucca,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Macerata,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Mantua,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Massa & Carrara,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Matera,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Messina,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Milan,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Modena,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Monza & Brianza,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Naples,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Novara,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Nouru,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Oristano,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Padua,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Palermo,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Parma,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Paavia,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Perugia,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Pesaro,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Pescara,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Piacenza,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Pisa,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Pistoa,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Posdenone,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Potenza,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Prato,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Ragusa,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Ravenna,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Reggio Calabria,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Reggio Emilia,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Rieti,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Rimini,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Rome,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Rovigo,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Salerno,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Sassari,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Savona,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Siena,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Sandrio,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,South Tyrol,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Syracuse,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Taranto,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Teramo,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,terni,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Trapani,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Trento,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,TrevisoTrieste,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Turin,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Udine,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Varese,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Venice,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Verbano-Cusio,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Vercili,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Verona,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Vibo Valentia,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Vicenzia,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Italy,05/01/2020,State,Viterbo,03/09/2020,https://www.thelocal.it/20200407/coronavirus-how-and-when-will-italys-lockdown-end
+,Qatar,04/15/2020,State,Baladiyat ash Shamal,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Qatar
+,Qatar,04/15/2020,State,Baladiyat al Khawr wa adh Dhakhirah,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Qatar
+,Qatar,04/15/2020,State,Baladiyat Umm Salal,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Qatar
+,Qatar,04/15/2020,State,Baladiyat ar Rayyan,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Qatar
+,Qatar,04/15/2020,State, Baladiyat ad Dawhah,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Qatar
+,Qatar,04/15/2020,State,Al Wakrah,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Qatar
+,Qatar,04/15/2020,State,Baladiyat az Za'ayin,03/13/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Qatar
+,Iceland,05/03/2020,State,Capital Region,03/24/2020,https://www.bbc.com/news/uk-england-bristol-52019720
+,Iceland,05/03/2020,State,Western Region,03/24/2020,https://www.bbc.com/news/uk-england-bristol-52019720
+,Iceland,05/03/2020,State,Northwestern Region,03/24/2020,https://www.bbc.com/news/uk-england-bristol-52019720
+,Iceland,05/03/2020,State,Notheastern Region,03/24/2020,https://www.bbc.com/news/uk-england-bristol-52019720
+,Iceland,05/03/2020,State,Eastern region,03/24/2020,https://www.bbc.com/news/uk-england-bristol-52019720
+,Iceland,05/03/2020,State,Southern Region,03/24/2020,https://www.bbc.com/news/uk-england-bristol-52019720
+,Iceland,05/03/2020,State,Westfords,03/24/2020,https://www.bbc.com/news/uk-england-bristol-52019720
+,Iceland,05/03/2020,State,Southern Peninsula,03/24/2020,https://www.bbc.com/news/uk-england-bristol-52019720
+,Singapore,05/03/2020,State,Central Areas,03/04/2020,https://www.livemint.com/news/world/singapore-announces-1-month-lockdown-amid-rising-corona-cases-11585905344421.html
+,Singapore,05/03/2020,State,Tampines,03/04/2020,https://www.livemint.com/news/world/singapore-announces-1-month-lockdown-amid-rising-corona-cases-11585905344421.html
+,Singapore,05/03/2020,State,Woodlands,03/04/2020,https://www.livemint.com/news/world/singapore-announces-1-month-lockdown-amid-rising-corona-cases-11585905344421.html
+,Singapore,05/03/2020,State,Seletor,03/04/2020,https://www.livemint.com/news/world/singapore-announces-1-month-lockdown-amid-rising-corona-cases-11585905344421.html
+,Singapore,05/03/2020,State,Jurong East,03/04/2020,https://www.livemint.com/news/world/singapore-announces-1-month-lockdown-amid-rising-corona-cases-11585905344421.html
+,Algeria,04/19/2020,National,Algiers,04/05/2020,http://www.aps.dz/en/algeria/33814-partial-lockdown-broadened-to-all-provinces-schedules-extended-in-others-as-of-sunday
+,New Zealand,04/23/2020,State,Auckland,03/25/2020,https://thespinoff.co.nz/society/08-04-2020/how-and-when-will-new-zealand-come-out-of-lockdown/
+,New Zealand,04/23/2020,State,New Plymuth,03/25/2020,https://thespinoff.co.nz/society/08-04-2020/how-and-when-will-new-zealand-come-out-of-lockdown/
+,New Zealand,04/23/2020,State,Wellington,03/25/2020,https://thespinoff.co.nz/society/08-04-2020/how-and-when-will-new-zealand-come-out-of-lockdown/
+,New Zealand,04/23/2020,State,Nelson,03/25/2020,https://thespinoff.co.nz/society/08-04-2020/how-and-when-will-new-zealand-come-out-of-lockdown/
+,New Zealand,04/23/2020,State,Canterbusy,03/25/2020,https://thespinoff.co.nz/society/08-04-2020/how-and-when-will-new-zealand-come-out-of-lockdown/
+,New Zealand,04/23/2020,State,Otago,03/25/2020,https://thespinoff.co.nz/society/08-04-2020/how-and-when-will-new-zealand-come-out-of-lockdown/
+,Estonia,04/02/2020,National,Tallinn,03/17/2020,https://estonianworld.com/life/blog-coronavirus-in-estonia/
+,Hungary,04/11/2020,State,Baranya,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,Bacs-kiskun,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,Bekes,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,Budapest,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,Csongrad,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,fejer,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,Hajdu Bihar,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,Heves,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,Nograd,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,Pest,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,Somogy,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,Tolna,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,Vast,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Hungary,04/11/2020,State,Zala,03/27/2020,https://www.euractiv.com/section/coronavirus/short_news/hungary-update-covid-19/
+,Armenia,04/14/2020,State,Aragatsotn,03/15/2020,https://www.bloomberg.com/news/articles/2020-03-16/armenia-declares-30-day-state-of-emergency-over-coronavirus
+,Armenia,04/14/2020,State,Ararat,03/15/2020,https://www.bloomberg.com/news/articles/2020-03-16/armenia-declares-30-day-state-of-emergency-over-coronavirus
+,Armenia,04/14/2020,State,Armavir,03/15/2020,https://www.bloomberg.com/news/articles/2020-03-16/armenia-declares-30-day-state-of-emergency-over-coronavirus
+,Armenia,04/14/2020,State,Gegharkunik,03/15/2020,https://www.bloomberg.com/news/articles/2020-03-16/armenia-declares-30-day-state-of-emergency-over-coronavirus
+,Armenia,04/14/2020,State,Kotayk,03/15/2020,https://www.bloomberg.com/news/articles/2020-03-16/armenia-declares-30-day-state-of-emergency-over-coronavirus
+,Armenia,04/14/2020,State,Lori,03/15/2020,https://www.bloomberg.com/news/articles/2020-03-16/armenia-declares-30-day-state-of-emergency-over-coronavirus
+,Armenia,04/14/2020,State,Shirak ,03/15/2020,https://www.bloomberg.com/news/articles/2020-03-16/armenia-declares-30-day-state-of-emergency-over-coronavirus
+,Armenia,04/14/2020,State,Syunik,03/15/2020,https://www.bloomberg.com/news/articles/2020-03-16/armenia-declares-30-day-state-of-emergency-over-coronavirus
+,Armenia,04/14/2020,State,Tavush,03/15/2020,https://www.bloomberg.com/news/articles/2020-03-16/armenia-declares-30-day-state-of-emergency-over-coronavirus
+,Armenia,04/14/2020,State,Vayots Dzor,03/15/2020,https://www.bloomberg.com/news/articles/2020-03-16/armenia-declares-30-day-state-of-emergency-over-coronavirus
+,Armenia,04/14/2020,State,Yerevan,03/15/2020,https://www.bloomberg.com/news/articles/2020-03-16/armenia-declares-30-day-state-of-emergency-over-coronavirus
+,Kuwait,04/20/2020,State,Al-Shuyoukh,04/06/2020,https://english.alarabiya.net/en/News/gulf/2020/04/06/Coronavirus-Kuwait-orders-two-areas-into-full-lockdown-extends-partial-curfew-to-6-
+,Kuwait,04/20/2020,State,Mahboula,04/06/2020,https://english.alarabiya.net/en/News/gulf/2020/04/06/Coronavirus-Kuwait-orders-two-areas-into-full-lockdown-extends-partial-curfew-to-6-
+,Azerbaijan,04/20/2020,National,Baku,03/31/2020,https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/azerbaijan-to-impose-curfew-amid-coronavirus-outbreak/1785680
+,Bahrain,04/09/2020,State,Capital,03/26/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Bahrain
+,Bahrain,04/09/2020,State,Muharraq,03/26/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Bahrain
+,Bahrain,04/09/2020,State,Northern,03/26/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Bahrain
+,Bahrain,04/09/2020,State,Southern,03/26/2020,https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Bahrain
+,Kazakhstan,04/15/2020,City,Almaty,03/19/2020,https://www.thejakartapost.com/news/2020/03/20/kazakhstan-locks-down-two-biggest-cities-due-to-virus.html
+,Kazakhstan,04/15/2020,City,Nur-Sultan,03/19/2020,https://www.thejakartapost.com/news/2020/03/20/kazakhstan-locks-down-two-biggest-cities-due-to-virus.html
+,Tusinia,04/19/2020,State,Ariana,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Beja,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Ben Arous,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Bizerte,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Gabes,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Gafsa,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Jendouba,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Kebi,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Kafe,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Mahdia,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Manouba,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Medinine,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Sfax,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,Tusinia,04/19/2020,State,Tozeur,03/20/2020,https://www.aljazeera.com/news/2020/03/tunisia-extends-lockdown-weeks-releases-prisoners-200331194042414.html
+,North Mcedania,04/18/2020,National,Skopje,03/18/2020,https://www.usnews.com/news/world/articles/2020-03-18/north-macedonia-declares-state-of-emergency-over-coronavirus-outbreak
+,Latvia,/Not confirmed/,National,Riga,03/17/2020,https://eng.lsm.lv/article/society/health/latvia-to-close-borders-to-passenger-traffic-on-tuesday-17-march.a351774/
+,Lebonan,/Not confirmed/,State,Akkar ,03/15/2020,https://www.france24.com/en/20200315-lebanon-announces-two-week-lockdown-over-coronavirus
+,Lebonan,/Not confirmed/,State,Beirut,03/15/2020,https://www.france24.com/en/20200315-lebanon-announces-two-week-lockdown-over-coronavirus
+,Lebonan,/Not confirmed/,State,Beqa,03/15/2020,https://www.france24.com/en/20200315-lebanon-announces-two-week-lockdown-over-coronavirus
+,Lebonan,/Not confirmed/,State,Mount lebonan,03/15/2020,https://www.france24.com/en/20200315-lebanon-announces-two-week-lockdown-over-coronavirus
+,Lebonan,/Not confirmed/,State,Nabatieh,03/15/2020,https://www.france24.com/en/20200315-lebanon-announces-two-week-lockdown-over-coronavirus
+,Lebonan,/Not confirmed/,State,North,03/15/2020,https://www.france24.com/en/20200315-lebanon-announces-two-week-lockdown-over-coronavirus
+,Lebonan,/Not confirmed/,State,South,03/15/2020,https://www.france24.com/en/20200315-lebanon-announces-two-week-lockdown-over-coronavirus
+,Lebonan,/Not confirmed/,State,Baalbek Harmel,03/15/2020,https://www.france24.com/en/20200315-lebanon-announces-two-week-lockdown-over-coronavirus
+,Uzbekistan,/Not confirmed/,State,Andijan,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Uzbekistan,/Not confirmed/,State,Bukhara,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Uzbekistan,/Not confirmed/,State,fergana,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Uzbekistan,/Not confirmed/,State,Jizzakh,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Uzbekistan,/Not confirmed/,State,Xorarm,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Uzbekistan,/Not confirmed/,State,Namangan,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Uzbekistan,/Not confirmed/,State,Navoiy,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Uzbekistan,/Not confirmed/,State,Qashqadaryo,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Uzbekistan,/Not confirmed/,State,Samarqand,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Uzbekistan,/Not confirmed/,State,Sirdaryo,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Uzbekistan,/Not confirmed/,State,Surxondaryo,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Uzbekistan,/Not confirmed/,State,Tashkent ,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Uzbekistan,/Not confirmed/,State,Karakalpakstan,03/23/2020,https://thediplomat.com/2020/04/uzbekistan-adopts-strict-regulations-to-fight-covid-19/
+,Cyprus,04/30/2020,State,Nicosia,03/24/2020,https://cyprus-mail.com/2020/04/06/coronavirus-lockdown-to-be-extended-to-end-of-april-reports/
+,Cyprus,04/30/2020,State,Famagusta,03/24/2020,https://cyprus-mail.com/2020/04/06/coronavirus-lockdown-to-be-extended-to-end-of-april-reports/
+,Cyprus,04/30/2020,State,Kyrenia,03/24/2020,https://cyprus-mail.com/2020/04/06/coronavirus-lockdown-to-be-extended-to-end-of-april-reports/
+,Cyprus,04/30/2020,State,Larnacca,03/24/2020,https://cyprus-mail.com/2020/04/06/coronavirus-lockdown-to-be-extended-to-end-of-april-reports/
+,Cyprus,04/30/2020,State,Limassol,03/24/2020,https://cyprus-mail.com/2020/04/06/coronavirus-lockdown-to-be-extended-to-end-of-april-reports/
+,Cyprus,04/30/2020,State,Paohos,03/24/2020,https://cyprus-mail.com/2020/04/06/coronavirus-lockdown-to-be-extended-to-end-of-april-reports/
+,Costa Rica,/Not Confirmed/,National,San José,03/18/2020,https://www.google.com/search?q=costa+rica+capital&rlz=1C1CHBD_enPK895PK895&oq=costa+rica+cap&aqs=chrome.1.69i57j0l7.7176j0j4&sourceid=chrome&ie=UTF-8
+,Cuba,04/07/2020,National,Havanna,03/24/2020,https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-24-20-intl-hnk/h_7b694d17a78f2c02d7c76570e1726508
+,Oman,04/22/2020,National,Muscat,04/10/22,https://www.garda.com/crisis24/news-alerts/330531/oman-government-to-lock-down-muscat-province-april-10-22-update-7
+,Albania,/Not Confirmed/,National,Tiranna,03/16/2020,https://www.garda.com/crisis24/news-alerts/328421/albania-government-extends-lockdown-measures-indefinitely-from-april-1-update-7
+,Jordan,/Not Confirmed/,National,Amman,03/18/2020,https://www.al-monitor.com/pulse/originals/2020/03/jordan-state-of-emergency-coronavirus-public-economy.html
+,Malta,/Not Confirmed/,National,Valleta,03/26/2020,http://www.xinhuanet.com/english/2020-03/27/c_138920955.htm
+,Bangladesh,04/11/2020,State,Barrisal,03/26/2020,https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-shutdown-until-april-11/1786610
+,Bangladesh,04/11/2020,State,Chittagong,03/26/2020,https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-shutdown-until-april-11/1786610
+,Bangladesh,04/11/2020,State,Dhaka,03/26/2020,https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-shutdown-until-april-11/1786610
+,Bangladesh,04/11/2020,State,Khulna,03/26/2020,https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-shutdown-until-april-11/1786610
+,Bangladesh,04/11/2020,State,Memynsing,03/26/2020,https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-shutdown-until-april-11/1786610
+,Bangladesh,04/11/2020,State,Rajshahi,03/26/2020,https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-shutdown-until-april-11/1786610
+,Bangladesh,04/11/2020,State,Nagpur,03/26/2020,https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-shutdown-until-april-11/1786610
+,Bangladesh,04/11/2020,State,Sylhet,03/26/2020,https://www.aa.com.tr/en/asia-pacific/covid-19-bangladesh-extends-shutdown-until-april-11/1786610
+,Ghana,04/14/2020,National,Accra,03/30/2020,http://apanews.net/en/news/covid-19-ghana-goes-on-partial-lockdown
+,Nigeria,04/14/2020,City,Lagos,03/30/2020,https://www.aljazeera.com/news/2020/03/nigeria-announces-lockdown-major-cities-curb-coronavirus-200330095100706.html
+,Nigeria,04/14/2020,City,Aboga,03/30/2020,https://www.aljazeera.com/news/2020/03/nigeria-announces-lockdown-major-cities-curb-coronavirus-200330095100706.html
+,Nigeria,04/14/2020,City,Ogun,03/30/2020,https://www.aljazeera.com/news/2020/03/nigeria-announces-lockdown-major-cities-curb-coronavirus-200330095100706.html
+,Bolvia,04/15/2020,National,Sucre,03/20/2020,https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-17-20-intl-hnk/index.html
+,Palestine,/Not Confirmed/,State,West Bank,03/23/2020,https://www.haaretz.com/israel-news/dozens-of-new-york-hasidic-jews-in-coronavirus-quarantine-after-arriving-in-israel-1.8689682
+,Montenegro,/Not Confirmed/,National,Podgorica,03/30/2020,https://www.reuters.com/article/health-coronavirus-montenegro/montenegro-introduces-lockdown-to-fight-coronavirus-idUSL8N2BN88Z
+,Vietnam,04/14/2020,National,Hanoi,03/31/2020,https://www.voanews.com/science-health/coronavirus-outbreak/vietnam-orders-national-isolation-after-initial-containment
+,Senegal,/Not Confirmed/,National,Dakar,03/22/2020,https://www.aljazeera.com/news/2020/03/senegal-shuts-borders-fears-africa-virus-hotspot-200322101612763.html
+,Georgia,04/13/2020,National,Tbilisi,04/02/2020,https://www.ajc.com/news/one-month-after-warnings-kemp-puts-georgia-lockdown/db6Aodv3LzftEV89WA1EOI/
+,Venezuela,/Not Confirmed/,National,Caracas,03/16/2020,https://venezuelanalysis.com/news/14813
+,Guineas,04/30/2020,National,Conakry,03/24/2020,https://www.businessadvantagepng.com/papua-new-guineas-state-of-emergency-extended-for-two-more-months/
+,Russia,04/30/2020,State,Adygia,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Bashkortostan,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Buryatia,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Altai,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Dagestan,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Ingushetia,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Kabardino-Balkar,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Kalmykia,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Karachay cherkess,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Kearelia,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Komi,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Mari El,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Mordovia,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Sakha,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,North Ossetia Alania,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Tatarstan,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Tuvi,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Udmurt,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Kakassia,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Chechen,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Chuvash,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Altai Krai,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Krasnodar krai,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Primorsky,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Stavropol,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Khabarovsk,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Amur Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Arkhangelsk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Astrakhan Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Belgorod Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Bryansk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Vladimir Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Volgograd Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Vologda Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Voronezh Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Ivanovo Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Irkutsk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Kaliningrad Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Kaluga Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Kamchatka Krai,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Kemerovo Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Kirov Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Kostroma Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Kurgan Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Kursk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Leningrad Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Lipetsk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Magadan Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Moscow Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Murmansk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Nizhny Novgorod Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Novgorod Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Novosibirsk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Omsk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Orenburg Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Oryol Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Penza Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Perm Krai,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Pskov Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Rostov Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Ryazan Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Samara Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Saratov Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Sakhalin Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State, Sverdlovsk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Smolensk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State, Tambov Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Tver Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Tomsk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Tula Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Tyumen Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Ulyanovsk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Chelyabinsk Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Zabaykalsky Krai,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Yaroslavl Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Moscow Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Saint Petersburg,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Jewish Autonomous Oblast,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State, Nenets Autonomous Okrug,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Khanty–Mansi Autonomous Okrug – Yugra,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Chukotka Autonomous Okrug,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Yamalo-Nenets Autonomous Okrug,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Crimea,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Russia,04/30/2020,State,Sevastopol,03/30/2020,https://www.aljazeera.com/news/2020/04/putin-extends-russia-coronavirus-nonworking-period-200402184928937.html
+,Brunei,/Not Confirmed/,National,Bandar Seri Begawan,03/24/2020,https://www.thestar.com.my/news/regional/2020/03/24/all-foreigners-banned-from-entering-brunei-from-march-24
+,Djibouti ,/Not Confirmed/,State,Ali Sabieh,03/23/2020,https://reliefweb.int/report/djibouti/republic-djibouti-covid-19-situation-report-1-23-march-2020
+,Djibouti ,/Not Confirmed/,State,Arta,03/23/2020,https://reliefweb.int/report/djibouti/republic-djibouti-covid-19-situation-report-1-23-march-2020
+,Djibouti ,/Not Confirmed/,State,Dikhil,03/23/2020,https://reliefweb.int/report/djibouti/republic-djibouti-covid-19-situation-report-1-23-march-2020
+,Djibouti ,/Not Confirmed/,State,Tadjourah,03/23/2020,https://reliefweb.int/report/djibouti/republic-djibouti-covid-19-situation-report-1-23-march-2020
+,Djibouti ,/Not Confirmed/,State,Obock,03/23/2020,https://reliefweb.int/report/djibouti/republic-djibouti-covid-19-situation-report-1-23-march-2020
+,Paraguay,04/12/2020,National,Asunción,03/20/2020,https://www.aa.com.tr/en/americas/paraguay-extends-lockdown-until-april-12-amid-virus/1783353
+,Gibraltar,/Not Confirmed/,National,,03/22/2020,https://www.express.co.uk/news/world/1258742/Gibraltar-news-coronavirus-fabian-picardo-total-social-lockdown-spain-police
+,Cambodia,04/05/2020,National,Phnom Penh,03/30/2020,https://timesofindia.indiatimes.com/world/rest-of-world/cambodia-casinos-shut-down-as-coronavirus-cases-climb/articleshow/74885236.cms
+,Rwanda,04/19/2020,National,Africa,03/21/2020,https://www.cnbcafrica.com/news/2020/04/02/rwanda-extends-covid-19-lockdown-by-two-weeks/
+,Trinidad and Tobago ,/Not Confirmed/,National,Africa,03/16/2020,https://trinidadexpress.com/news/local/t-t-in--day-lockdown/article_ff1a6016-67ee-11ea-8cfb-17af96726cb5.html
+,El Salvador,/Not Confirmed/,National,San Salvador,03/22/2020,https://www.garda.com/crisis24/news-alerts/325621/el-salvador-president-announces-nationwide-lockdown-march-22-update-8
+,Madagascar,04/05/2020,City, Antananarivo,03/24/2020,https://www.garda.com/crisis24/news-alerts/329996/madagascar-nationwide-state-of-emergency-extended-lockdown-measures-in-fianarantsoa-april-5-update-5
+,Madagascar,04/05/2020,City, Toamasina,03/24/2020,https://www.garda.com/crisis24/news-alerts/329996/madagascar-nationwide-state-of-emergency-extended-lockdown-measures-in-fianarantsoa-april-5-update-5
+,French Guiana,/Not Confirmed/,National,Cayenne,03/27/2020,https://www.odt.co.nz/regions/queenstown/complete-nightmare-stuck-french-guiana-lockdown
+,Monaco,/Not Confirmed/,National,Monte Carlo,03/17/2020,https://www.garda.com/crisis24/news-alerts/328151/monaco-lockdown-implemented-march-17-update-1
+,Aruba,/Not Confirmed/,National,Oranjestad,03/31/2020,https://www.arubatoday.com/coronavirus-lockdown-on-aruba/
+,Togo,/Not Confirmed/,State,Lome,03/20/2020,https://www.garda.com/crisis24/news-alerts/326281/togo-authorities-shut-borders-put-four-cities-on-lockdown-march-20-update-2
+,Togo,/Not Confirmed/,State,Tsévié,03/20/2020,https://www.garda.com/crisis24/news-alerts/326281/togo-authorities-shut-borders-put-four-cities-on-lockdown-march-20-update-2
+,Togo,/Not Confirmed/,State,Kpalimé,03/20/2020,https://www.garda.com/crisis24/news-alerts/326281/togo-authorities-shut-borders-put-four-cities-on-lockdown-march-20-update-2
+,Togo,/Not Confirmed/,State,Sokodé,03/20/2020,https://www.garda.com/crisis24/news-alerts/326281/togo-authorities-shut-borders-put-four-cities-on-lockdown-march-20-update-2
+,Mali,/Not Confirmed/,State,West African State,03/26/2020,https://www.msn.com/en-au/news/coronavirus/mali-on-lockdown-as-first-coronavirus-cases-reported/ar-BB11IfXN
+,Ethopia,/Not confirmed/,State,African,03/16/2020,https://www.aa.com.tr/en/africa/covid-19-ethiopia-closes-schools-bans-public-events/1767683
+,Uganda,04/14/2020,National,Kampala,03/31/2020,https://www.aa.com.tr/en/africa/uganda-declares-curfew-to-curb-spread-of-covid-19/1785775
+,Cayman Islands,/Not Confirmed/,National,George Town,03/24/2020,https://www.caymancompass.com/2020/03/24/premier-lives-more-important-than-economic-considerations/
+,Sint Maarten,04/10/2020,National,,03/19/2020,https://caribbeannetwork.ntr.nl/2020/03/19/sint-maarten-on-lock-down-in-fight-against-coronavirus-companies-and-schools-also-shut-down/
+,Bahamas,04/27/2020,National,Nassau,04/14/2020,https://www.osac.gov/Content/Report/a06ac56a-c28c-4061-9642-18631b272680
+,Bermuda,04/09/2020,National,Hamilton,04/02/2020,https://www.garda.com/crisis24/news-alerts/328036/antigua-bermuda-government-announces-seven-day-lockdown-from-april-2-update-1
+,Gabon,/not confirmed/,National,Libreville,03/14/2020,https://www.africanews.com/2020/03/14/covid-19-gabon-shuts-stops-issuing-tourist-visas-to-citizens-of-hardest-hit//
+,Eritrea,04/24/2020,National,Asmara,04/03/2020,https://www.africanews.com/2020/04/03/eritrea-s-coronavirus-rules-chinese-italians-iranians-to-be-quarantined/
+,Liberia,04/30/2020,National,Monrovia,04/10/2020,https://www.aa.com.tr/en/africa/liberia-declares-state-of-emergency-amid-covid-19/1797805
+,Haiti,/Not Confirmed/,National,Port-au-Prince,03/21/2020,https://www.aljazeera.com/news/2020/03/haiti-president-declares-state-emergency-coronavirus-200321102722636.html
+,Tanzania,/Not Confirmed/,National,Dodoma,04/08/2020,https://africanarguments.org/2020/04/08/tanzania-covid-19-time-lockdown-debt-relief-urgency/
+,Libya,04/20/2020,National,Tripoli,03/22/2020,https://www.libyanexpress.com/libya-on-lockdown-from-6-00-pm-to-6-00-am-amid-coronavirus-preventive-measures/
+,Antigua and Barbuda,04/09/2020,National,Saint John's,04/02/2020,https://www.nationnews.com/nationnews/news/244738/antiguas-pm-announces-hour-lockdown
+,Syria,/Not Confirmed/,National,Damascus,03/21/2020,https://www.unhcr.org/news/stories/2020/4/5e84a3584/syrian-refugees-adapt-life-under-coronavirus-lockdown-jordan-camps.html
+,Maldives,03/12/2020,National,Male,03/10/2020,https://www.ttgmedia.com/news/news/coronavirus-four-maldives-resorts-placed-in-lockdown-21673
+,Equatorial Guinea,/Not Confirmed/,National,Malabo,03/22/2020,https://www.aa.com.tr/en/africa/equatorial-guinea-declares-state-of-alarm-over-covid-19/1774801
+,New Caledonia,04/05/2020,National,Noumea,03/22/2020,https://www.rnz.co.nz/international/pacific-news/412341/covid-19-new-caledonians-ordered-to-stay-home-from-end-of-monday
+,Mozambique,04/16/2020,National,Mapotu,03/27/2020,https://www.dfa.ie/irish-embassy/mozambique/
+,Mangolia,/Not Confirmed/,National,Ulaanbaatar,03/10/2020,https://www.garda.com/crisis24/news-alerts/321181/mongolia-government-places-ulaanbaatar-and-other-cities-on-lockdown-due-to-covid-19-march-10-update-7
+,Namibia,04/24/2020,National,,03/24/2020,https://www.reuters.com/article/us-health-coronavirus-namibia/namibia-announces-travel-ban-partial-lockdown-after-seventh-coronavirus-case-idUSKBN21B30R
+,Dominica,/Not confirmed/,National,,03/28/2020,https://www.stlucianewsonline.com/breaking-news-dominica-under-lockdown-till-tuesday-in-light-of-coronavirus/
+,Fiji,/Not Confirmed/,National,Suva,04/03/2020,https://www.garda.com/crisis24/news-alerts/328461/fiji-lockdown-to-be-imposed-on-suva-from-april-3-update-3
+,Sudan,/Not Confirmed/,National,South Sudan,03/24/2020,https://www.theeastafrican.co.ke/news/ea/South-Sudan-on-a-lockdown-over-coronavirus-fears/4552908-5502350-hwf9ou/index.html
+,Curaçao,/Not Confirmed/,National,Willemstad,03/30/2020,https://www.curacaochronicle.com/post/main/curacao-immediately-on-lockdown-eleventh-case-confirmed/
+,Botswana,05/1/2020,National,Gaborone,04/04/2020,http://www.xinhuanet.com/english/2020-04/04/c_138946075.htm
+,Grenada,04/06/2020,National,Saint George's,03/30/2020,https://www.dominicavibes.dm/news-263660/
+,Eswatini,/Not Confirmed/,National,Mbabane,03/26/2020,https://www.africanews.com/2020/04/02/coronavirus-eswatini-partial-lockdown-update-covid-19//
+,Zimbabve,04/20/2020,National,Harare,03/31/2020,https://www.aljazeera.com/news/2020/03/zimbabwe-launches-21-day-nationwide-lockdown0-200330174200621.html
+,Greenland,04/15/2020,National,Nuuk,03/29/2020,https://www.theguardian.com/world/2020/mar/29/alcohol-sales-banned-in-greenland-capital-during-lockdown
+,Saint Kitts and Nevis,04/16/2020,National,Basseterre,04/09/2020,https://caribbeanbusinessreport.com/news/st-kitts-nevis-lockdown-begins-today/
+,Seychelles,04/29/2020,National,Victoria,04/09/2020,https://www.garda.com/crisis24/news-alerts/330631/seychelles-authorities-order-nationwide-21-day-lockdown-from-april-9-update-2
+,Belize,04/20/2020,National,Belmopan,04/08/2020,http://www.7newsbelize.com/index.php
+,Nepal,04/22/2020,National,Kathmandu,03/24/2020,https://thediplomat.com/2020/04/nepal-extends-ongoing-lockdown-to-combat-covid-19/
+,Malawi,/Not Confirmed/,National,Lilongwe,03/23/2020,https://allafrica.com/stories/202003230105.html
+,Turks and Caicos,04/18/2020,National,Cockburn Town,04/07/2020,https://www.gov.tc/moh/coronavirus/
+,Vatican City,/Not Confirmed/,National,,03/12/2020,https://www.thebostonpilot.com/article.asp?ID=187097
+,Mauritania,/Not Confirmed/,National,Nouakchott,03/21/2020,https://www.africanews.com/2020/03/21/covid-19-mauritania-enforces-curfew//
+,sierra leone,04/09/2020,National,Freetown,04/07/2020,http://www.rfi.fr/en/africa/20200409-sierra-leone-records-7th-coronavirus-case-locates-all-primary-contacts-as-3-day-covid-19-lockdown-ends
+,Bhutan,04/21/2020,National,Thimphu,03/31/2020,https://www.spotlightnepal.com/2020/03/31/bhutan-announces-lockdown-fourth-coronavirus-positive-cases/
+,Falkland Islands,05/04/2020,National,Stanley,03/27/2020,https://www.express.co.uk/news/world/1260976/falkland-islands-coronavirus-covid-19-lockdown-pandemic-outbreak
+,Gambia,04/11/2020,National,Banjul,03/23/2020,https://www.aa.com.tr/en/africa/covid-19-gambia-senegal-to-close-border-for-21-days/1776298
+,Burundi,/Not Confirmed/,National,Gitega,04/02/2020,https://www.cnbcafrica.com/videos/2020/04/02/burundi-closes-border-with-rwanda-to-curb-covid-19-spread/
+,South Sudan,/Not Confirmed/,National,,03/24/2020,https://www.theeastafrican.co.ke/news/ea/South-Sudan-on-a-lockdown-over-coronavirus-fears/4552908-5502350-hwf9ou/index.html
+,Papua New Guinea,04/09/2020,National,,03/26/2020,https://www.businessadvantagepng.com/png-in-lockdown-what-it-means-for-you-and-your-business/
