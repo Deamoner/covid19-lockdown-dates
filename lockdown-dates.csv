@@ -59,8 +59,8 @@ Confirmed,Country,End date,Level,Place,Start date,URL
 ,Poland,4/12/2020,National,,3/13/2020,
 ,Portugal,4/2/2020,National,,3/19/2020,
 ,Romania,4/14/2020,National,,3/25/2020,
-,Russia,4/12/2020,Metropolitan area,Moscow,3/30/2020,
-,Rwanda,4/12/2020,National,,3/21/2020,
+,Russia,4/13/2020,Metropolitan area,Moscow,3/30/2020,
+,Rwanda,4/13/2020,National,,3/21/2020,
 ,Samoa,4/9/2020,National,,3/26/2020,
 ,Saudi Arabia,4/14/2020,City,Jeddah,3/29/2020,
 ,Saudi Arabia,4/14/2020,City,Mecca,3/26/2020,
@@ -179,17 +179,17 @@ Confirmed,China,3/13/2020,City,Qianjiang,1/24/2020,
 ,Germany,04/19/2020,State,Brandenburg,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
 ,Germany,04/19/2020,State,Bremen,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
 ,Germany,04/19/2020,State,Hamburg,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
-,Germany,04/19/2020,Wiesbaden,Hesse,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
-,Germany,04/19/2020,Hanover,Lower Saxony,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
-,Germany,04/19/2020,Schwerin,Mecklenburg-Vorpommern,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
-,Germany,04/19/2020,Dusseldorf,"North Rhine-,//
+,Germany,04/19/2020,State,Hesse,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Lower Saxony,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Mecklenburg-Vorpommern,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,"North Rhine-,//
 Westphalia",22.03.2022,thelocal/https://www/de/20200407/when-and-how-will-germanys-lockdown-measures-end
-,Germany,04/19/2020,Mainz,Rhineland-Palatinate,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
-,Germany,04/19/2020,Saarbrucken,Saarland,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
-,Germany,04/19/2020,Dresden,Saxony,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
-,Germany,04/19/2020,Magdeburg,Saxony-Anhalt,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
-,Germany,04/19/2020,Kiel,Schleswig-Holstein,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
-,Germany,04/19/2020,Erfurt,Thuringia,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Rhineland-Palatinate,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Saarland,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Saxony,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Saxony-Anhalt,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Schleswig-Holstein,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
+,Germany,04/19/2020,State,Thuringia,03/22/2022,https://www.thelocal.de/20200407/when-and-how-will-germanys-lockdown-measures-end
 ,Iran,04/18/2020,State,Tehran,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
 ,Iran,04/18/2020,State,Qom,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
 ,Iran,04/18/2020,State,Markazi,03/11/2049,https://www.bloomberg.com/news/articles/2020-04-05/iran-to-ease-some-work-restrictions-as-coronavirus-cases-climb
@@ -313,16 +313,16 @@ Westphalia",22.03.2022,thelocal/https://www/de/20200407/when-and-how-will-german
 ,Netherland,06/01/2020,State,South Holland,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
 ,Netherland,06/01/2020,State,Utrecht,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
 ,Netherland,06/01/2020,State,Zeeland,03/24/2020,https://www.nst.com.my/world/world/2020/03/577616/covid-19-netherlands-extends-partial-lockdown-june
-,Canada,06/30/2020,State,Ontario,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
-,Canada,06/30/2020,State,Quebec,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
-,Canada,06/30/2020,State,Nova Scotia,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
-,Canada,06/30/2020,State,New Brunswick,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
-,Canada,06/30/2020,State,Monitoba,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
-,Canada,06/30/2020,State,British Colombia,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
-,Canada,06/30/2020,State,Prince Edward Iceland,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
-,Canada,06/30/2020,State,Saskachewan,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
-,Canada,06/30/2020,State,Alberta,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
-,Canada,05/30/2020,State,New Foundland and Labrador,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Ontario,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Quebec,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Nova Scotia,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,New Brunswick,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Monitoba,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,British Colombia,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Prince Edward Iceland,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Saskachewan,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,Alberta,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
+,Canada,04/30/2020,State,New Foundland and Labrador,03/23/2020,https://nationalpost.com/news/canada/coronavirus-covid19-pandemic-canadian-cities
 ,Austria,04/14/2020,State,Viena,03/16/2020,https://metro.co.uk/2020/04/06/coronavirus-austria-lockdown-status-coronavirus-cases-population-12516501/
 ,Austria,04/14/2020,State,Lower Austria,03/16/2020,https://metro.co.uk/2020/04/06/coronavirus-austria-lockdown-status-coronavirus-cases-population-12516501/
 ,Austria,04/14/2020,State,Upper Austria,03/16/2020,https://metro.co.uk/2020/04/06/coronavirus-austria-lockdown-status-coronavirus-cases-population-12516501/
